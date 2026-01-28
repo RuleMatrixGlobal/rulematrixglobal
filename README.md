@@ -47,8 +47,8 @@ Our repositories reflect our commitment to clean code, documentation, and long-t
 ## Get in Touch
 
 🌐 Website: https://rulematrixglobal.com  
-📧 Contact: contact@rulematrixglobal.com  
-💼 LinkedIn: https://www.linkedin.com/company/rule-matrix-global  
+📧 Contact: info@rulematrixglobal.com  
+💼 LinkedIn: coming soon.....  
 
 ---
 
